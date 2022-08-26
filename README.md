@@ -31,13 +31,12 @@ Data source For this Project was given by the employer. (It can be found in data
 ## Installation Guide
 
 To install and run this project
-  
- git clone https://github.com/Meserat/Telecommunication-Data-Analysis
 
-            cd Tellco-Data-Analysis
+git clone https://github.com/Meserat/Telecommunication-Data-Analysis
+
+            cd Telecommunication-Data-Analysis
 
             pip install -r requirements.txt
-
 
 ## Project Structure
 
